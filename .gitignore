@@ -1,4 +1,6 @@
 .idea/
 venv/
+media/
 **/--paycashe/
 *.pyc
+db.sqlite3
